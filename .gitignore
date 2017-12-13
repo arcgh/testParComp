@@ -7,3 +7,6 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+bitonic-openmp
+bitonic-cilk
+bitonic-mpi
